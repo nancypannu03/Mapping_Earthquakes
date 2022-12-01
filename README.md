@@ -27,7 +27,7 @@ Now that you have an overview of the project plan, let's set up a Mapbox account
 ![Test Image](/Earthquake_Challenge/Resources/Street.png)
 
 
-![Test Image](/Earthquake_Challenge/Resources/Satellite.png)
+![Test Image](/Earthquake_Challenge/Resources/Sattelite.png)
 
 
 ![Test Image](/Earthquake_Challenge/Resources/dark.png)
