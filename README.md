@@ -24,12 +24,12 @@ Now that you have an overview of the project plan, let's set up a Mapbox account
 ## Deliverable 1 and Deliverable 2:
 ### Results:
 
-![Test Image](/Resources/Street.png)
+![Test Image](/Earthquake_Challenge/Resources/Street.png)
 
 
-![Test Image](/Resources/Satellite.png)
+![Test Image](/Earthquake_Challenge/Resources/Satellite.png)
 
 
-![Test Image](/Resources/dark.png)
+![Test Image](/Earthquake_Challenge/Resources/dark.png)
 
          
