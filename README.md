@@ -22,4 +22,14 @@ Your approach will be to use the JavaScript and the D3.js library to retrieve th
 Now that you have an overview of the project plan, let's set up a Mapbox account and get the API token you'll need to create geographical maps.
 
 ## Deliverable 1 and Deliverable 2:
-### Code and Results:
+### Results:
+
+![Test Image](/Resources/Street.png)
+
+
+![Test Image](/Resources/Satellite.png)
+
+
+![Test Image](/Resources/dark.png)
+
+         
